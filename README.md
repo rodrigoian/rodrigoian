@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Back-end Developer | Science Computing</p>
+<p align="left">Back-end Developer | Science Computing | Java developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi! I'm Rodrigo Ian, a back-end developer from Manaus, Brazil. I'm currently honing my Python skills, aiming to kickstart my career as a junior developer.</p>
+<p align="left">Hi! I'm Rodrigo Ian, a back-end developer from Manaus, Brazil. I'm currently honing my Java skills, aiming to kickstart my career as a junior developer.</p>
 
 ###
 
